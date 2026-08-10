@@ -1,14 +1,15 @@
 {
   "name": "أثار - نظام التشغيل الشخصي",
   "short_name": "أثار",
-  "description": "نظام لإدارة مهامك وملاحظاتك واهدافك اليومية",
+  "description": "نظام للابتكار في مهامك وملاحظاتك وأهدافك اليومية",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
